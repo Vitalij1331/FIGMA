@@ -43,7 +43,7 @@ header
   .header-menu-list
   .header-menu-item
   .item-link {
-  color: var(--Gray-1, #333);
+  color: #333;
   font-feature-settings: "clig" off, "liga" off;
   font-family: Avenir Next;
   font-size: 16px;
@@ -113,7 +113,7 @@ main .container .main-section .main-section-img {
 }
 
 .paragraph-text {
-  color: var(--Gray-2, #4f4f4f);
+  color: #4f4f4f;
   font-family: "Avenir Next";
   font-size: 16px;
   font-style: normal;
@@ -141,7 +141,7 @@ main .container .main-section .main-section-block {
   padding: 0 30px;
 }
 main .container .main-section .main-section-block .main-section-title {
-  color: var(--Gray-1, #333);
+  color: #333;
   font-family: Avenir Next;
   font-size: 37px;
   font-style: normal;
@@ -157,7 +157,7 @@ main .container .main-section .main-section-block .main-section-title span {
 }
 
 main .main-section-text {
-  color: var(--Gray-2, #4f4f4f);
+  color: #4f4f4f;
   font-family: "Avenir Next";
   font-size: 20px;
   font-style: normal;
@@ -195,7 +195,7 @@ main .container .transport-section .transport-container .transport-box {
 }
 
 main .transport-title {
-  color: var(--Gray-1, #333);
+  color: #333;
   font-family: Avenir Next;
   font-size: 24px;
   font-style: normal;
@@ -237,7 +237,7 @@ main
   margin-bottom: 16px;
 }
 main .transport-description {
-  color: var(--Gray-2, #4f4f4f);
+  color: #4f4f4f;
   font-family: Avenir Next;
   font-size: 13px;
   font-style: normal;
@@ -374,7 +374,7 @@ main
   color: #4f4f4f;
 }
 main .feedbac-text {
-  color: var(--Gray-2, #4f4f4f);
+  color: #4f4f4f;
   font-family: "Avenir Next";
   font-size: 16px;
   font-style: italic;
